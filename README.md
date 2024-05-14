@@ -1,6 +1,6 @@
 # OC-P6
  
-Sophie Bluel: Architecte d'inteérieur
+Sophie Bluel: Architecte d'intérieur
 
 Projet 6 du parcours développeur web de chez OpenClassrooms
 
