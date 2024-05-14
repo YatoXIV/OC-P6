@@ -1,1 +1,11 @@
 /* HEADER */
+a{
+	text-decoration: none;
+	color: #1D6154;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	margin: 50px 0;
+}
