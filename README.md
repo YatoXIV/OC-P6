@@ -12,6 +12,6 @@ Site web access : https://yatoxiv.github.io/OC-P6/FrontEnd/index.html
 
 > email: sophie.bluel@test.tld
 
-> password: S0phie 
+> password: S0phie
 
 (Ne fonctionne pas pour l'instant)
